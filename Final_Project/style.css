@@ -1,0 +1,11 @@
+html {
+  background-color: red;
+  background-image: url(https://image.freepik.com/free-vector/cheerful-banana-pattern_3785-86.jpg);
+  background-repeat: repeat;
+}
+
+body {
+  background-color: yellow;
+  margin-left:100px;
+  margin-right:100px;
+}
